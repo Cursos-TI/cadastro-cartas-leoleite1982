@@ -47,5 +47,6 @@ int main() {
     printf("Tem: %i " "Pontos turisticos", Pontos_turisticos);
 
   
+  
 return 0;
 } 
